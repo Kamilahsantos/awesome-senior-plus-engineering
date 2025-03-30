@@ -73,7 +73,7 @@ Este repositório é dedicado a profissionais que já possuem uma sólida experi
 
 ## Contribuindo
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma [issue](#) ou enviar um [pull request](#) com sugestões de novos conteúdos ou melhorias.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma [issue](#https://github.com/Kamilahsantos/awesome-senior-plus-engineering/issues) ou enviar um [pull request](#https://github.com/Kamilahsantos/awesome-senior-plus-engineering/pulls) com sugestões de novos conteúdos ou melhorias.
 
 ## Licença
 
