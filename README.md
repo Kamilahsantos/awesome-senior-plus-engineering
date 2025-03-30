@@ -55,6 +55,9 @@ Este repositório é dedicado a profissionais que já possuem uma sólida experi
 
 ### Artigos
 
+- [Strategic Thinking for Staff+ Engineers
+  ](https://www.infoq.com/presentations/staff-strategic-thinking/)
+
 ### Livros
 
 ### Podcasts
