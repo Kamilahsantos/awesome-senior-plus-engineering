@@ -37,6 +37,8 @@ Este repositório é dedicado a profissionais que já possuem uma sólida experi
 
 ### Livros
 
+[Networking Para Quem Não Quer Fazer Networking - Domine a arte da conexão autêntica e expanda seu círculo social sem esgotar sua energia!](https://www.amazon.com.br/dp/6599815499?linkCode=ssc&tag=onamzkamidefa-20&creativeASIN=6599815499&asc_item-id=amzn1.ideas.1C6Z8LD2C8U2F&ref_=aip_sf_list_spv_ofs_mixed_d_asin)
+
 ### Podcasts
 
 ### Ferramentas
@@ -59,6 +61,8 @@ Este repositório é dedicado a profissionais que já possuem uma sólida experi
   ](https://www.infoq.com/presentations/staff-strategic-thinking/)
 
 ### Livros
+
+[Networking Para Quem Não Quer Fazer Networking - Domine a arte da conexão autêntica e expanda seu círculo social sem esgotar sua energia!](https://www.amazon.com.br/dp/6599815499?linkCode=ssc&tag=onamzkamidefa-20&creativeASIN=6599815499&asc_item-id=amzn1.ideas.1C6Z8LD2C8U2F&ref_=aip_sf_list_spv_ofs_mixed_d_asin)
 
 ### Podcasts
 
