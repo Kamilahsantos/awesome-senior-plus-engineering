@@ -15,7 +15,7 @@ Uma curadoria de conteúdos, ferramentas e recursos para profissionais de tecnol
   - [Comunidades](#comunidades)
   - [Cursos e videos](#comunidades)
 
-- [Recursos para staff+](#recursos)
+- [Recursos para staff+](#Recursos-staff-plus)
 
   - [Artigos](#artigos)
   - [Livros](#livros)
