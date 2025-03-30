@@ -41,9 +41,15 @@ Este repositório é dedicado a profissionais que já possuem uma sólida experi
 
 ### Ferramentas
 
+| Título | Features | Preço |
+| ------ | -------- | ----- |
+
 ### Comunidades
 
 ### Cursos e videos
+
+| Título | Preço |
+| ------ | ----- |
 
 ## Recursos-staff-plus
 
@@ -55,9 +61,15 @@ Este repositório é dedicado a profissionais que já possuem uma sólida experi
 
 ### Ferramentas
 
+| Título | Features | Preço |
+| ------ | -------- | ----- |
+
 ### Comunidades
 
 ### Cursos e videos
+
+| Título | Preço |
+| ------ | ----- |
 
 ## Contribuindo
 
