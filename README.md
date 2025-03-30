@@ -1,5 +1,6 @@
 # Awesome Senior+ Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![Capa do Projeto](https://github.com/Kamilahsantos/awesome-senior-plus-engineering/blob/main/Capa-projeto.jpg)
 Uma curadoria de conteúdos, ferramentas e recursos para profissionais de tecnologia em nível **Senior+**. Este repositório tem como objetivo ajudar pessoas experientes a continuar evoluindo em suas carreiras, com foco em liderança técnica, arquitetura de software, boas práticas e muito mais.
 
 ## Índice
