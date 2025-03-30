@@ -6,7 +6,7 @@ Uma curadoria de conteúdos, ferramentas e recursos para profissionais de tecnol
 ## Índice
 
 - [Introdução](#introdução)
-- [Recursos para tech lead](#recursos)
+- [Recursos para tech lead](#Recursos-tech-lead)
 
   - [Artigos](#artigos)
   - [Livros](#livros)
@@ -31,7 +31,21 @@ Uma curadoria de conteúdos, ferramentas e recursos para profissionais de tecnol
 
 Este repositório é dedicado a profissionais que já possuem uma sólida experiência técnica e estão buscando conteúdos avançados para aprimorar suas habilidades e expandir seus horizontes. Seja você um arquiteto de software, líder técnico ou um desenvolvedor sênior, aqui você encontrará materiais relevantes para o seu crescimento.
 
-## Recursos
+## Recursos-tech-lead
+
+### Artigos
+
+### Livros
+
+### Podcasts
+
+### Ferramentas
+
+### Comunidades
+
+### Cursos e videos
+
+## Recursos-staff-plus
 
 ### Artigos
 
