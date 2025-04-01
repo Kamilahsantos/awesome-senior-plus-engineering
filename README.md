@@ -66,6 +66,8 @@ Este repositório é dedicado a profissionais que já possuem uma sólida experi
 
 ### Podcasts
 
+[Staff Engineer, Principal Engineer e outros cargos de especialista](https://open.spotify.com/episode/5Vqpei94HbH41Pt5Wzo8XR)
+
 ### Ferramentas
 
 | Título | Features | Preço |
